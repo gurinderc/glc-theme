@@ -1,0 +1,48 @@
+{
+  "name": "glc-theme",
+  "displayName": "GLC VS Code Theme",
+  "description": "GLC Visual Studio Code Theme",
+  "version": "1.0.0",
+  "publisher": "glc-services",
+  "preview": false,
+  "icon": "assets/glc-logo.png",
+  "readme": "README.md",
+  "author": {
+    "name": "GLC Services"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "bugs": {
+    "url": "https://github.com/gurinderc/glc-theme/issues",
+    "email": "glc@gmx.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gurinderc/glc-theme.git"
+  },
+  "homepage": "https://github.com/gurinderc/glc-theme",
+  "qna": "https://github.com/gurinderc/glc-theme/issues",
+  "keywords": [
+    "Microsoft",
+    "GLC",
+    "VScode",
+    "Visual Studio Code",
+    "Theme",
+    "Themes"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "GLC Visual Studio Code Light",
+        "label": "Light (GLC Visual Studio Code)",
+        "uiTheme": "vs",
+        "path": "./themes/glc_light.json"
+      }
+    ]
+  }
+}
