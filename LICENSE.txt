@@ -1,6 +1,6 @@
 ------------------------------------------- START OF LICENSE -----------------------------------------
 
-glc-vscode-theme 
+glc-theme 
 
 Copyright (c) GLC Services
 
